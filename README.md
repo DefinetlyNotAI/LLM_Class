@@ -26,9 +26,11 @@ from Hugging Face to perform these tasks efficiently.
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed Python 3.x.
+- You have installed Python 3.8 or later.
 - You have installed the required Python packages from the [requirements.ps1](requirements.ps1) file.
-
+- You are using windows
+- You have at least 6GB of Storage available
+- You have a dedicated nvidea GPU supporting CUDA 11.8
 
 ## Installation
 
