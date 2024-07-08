@@ -1,6 +1,6 @@
-# Contributing to CHANGE-ME
+# Contributing to LLM_Class
 
-Looking to contribute something to CHANGE-ME? **Here's how you can help.**
+Looking to contribute something to LLM_Class? **Here's how you can help.**
 
 Please take a moment to review this document to make the contribution
 process easy and effective for everyone involved.
@@ -13,7 +13,7 @@ patches and features.
 
 ## Using the issue tracker
 
-The [issue tracker](https://github.com/YOUR_USERNAME/CHANGE-ME/issues) is
+The [issue tracker](https://github.com/DefinetlyNotAI/LLM_Class/issues) is
 the preferred channel for bug reports and features requests
 and submitting pull requests, but please respect the following
 restrictions:
@@ -47,14 +47,12 @@ leave the Explain.md file and the updating of the structure file to me.
 
 ## Guidelines for Modifications 📃
 
-When making modifications to the CHANGE-ME project,
+When making modifications to the LLM_Class project,
 please adhere to the following guidelines to ensure consistency and maintainability:
 
 ### Basic Check Functions
 
-- **Limitations on Modifications**: CHANGE ME
-
-- **Restrictions**: CHANGE ME
+- **Limitations on Modifications**: Be careful to not change to many files
 
 ### Documentation and Credit
 
@@ -74,17 +72,13 @@ please adhere to the following guidelines to ensure consistency and maintainabil
 
 ### Dependencies
 
-- **Requirement File**: CHANGE ME
-
-### Must Do's
-
-- **Final Steps**: CHANGE ME
+- **Requirement File**: If you add any requirements, include them in the `requirements.txt` file
   
 ## Issues and labels 🛠️
 
 Our bug tracker utilizes several labels to help organize and identify issues.
 
-For a complete look at our labels, see the [project labels page](https://github.com/YOUR_USERNAME/CHANGE-ME/labels).
+For a complete look at our labels, see the [project labels page](https://github.com/DefinetlyNotAI/LLM_Class/labels).
 
 
 ## Bug reports 🐛
@@ -144,14 +138,14 @@ project (indentation, accurate comments, etc.) and any other requirements
 View the WiKi for more information on how to write pull requests.
 
 **IMPORTANT**: By submitting a patch, you agree to allow the project owners to
-license your work under the terms of the [MIT License](https://github.com/YOUR_USERNAME/CHANGE-ME/blob/main/LICENSE) (if it
+license your work under the terms of the [MIT License](https://github.com/DefinetlyNotAI/LLM_Class/blob/main/LICENSE) (if it
 includes code changes) and under the terms of the
 [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
 
 
 ## License 📝
 
-By contributing your code, you agree to license your contribution under the [MIT License](https://github.com/YOUR_USERNAME/CHANGE-ME/blob/main/LICENSE).
+By contributing your code, you agree to license your contribution under the [MIT License](https://github.com/DefinetlyNotAI/LLM_Class/blob/main/LICENSE).
 By contributing to the documentation, you agree to license your contribution under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
 
 
@@ -160,6 +154,6 @@ By contributing to the documentation, you agree to license your contribution und
 - **Issues**: Use GitHub issues for bug reports and feature requests. Keep the discussion focused and relevant.
 - **Pull Requests**: Use pull requests to propose changes. Be prepared to discuss your changes and address any feedback.
 
-If you have any questions or need further clarification, please feel free to contact us at YOUR_EMAIL.
+If you have any questions or need further clarification, please feel free to contact us at Nirt_12023@outlook.com.
 
 Thank you for your contributions!

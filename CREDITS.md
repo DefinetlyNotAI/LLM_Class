@@ -2,31 +2,21 @@
 
 This project is built on the shoulders of giants and inspired by the work of many talented individuals and organizations. We acknowledge their contributions and are grateful for the knowledge and tools they have shared.
 
-## ❤️ Sponsors Credits ❤️
-
-CHANGE ME
-
 ## 👨‍💻 Coders Credits 👨‍💻
 
-CHANGE ME
+Till now, No-one
 
 ## 🛠️ Refactorers Credits 🛠️
 
-CHANGE ME
+Till now, No-one
 
 ## 🔨 Enhancers Credits 🔨
 
-CHANGE ME
+Till now, No-one
 
 ## 🐛 Bug bounty credits 🐛
 
-CHANGE ME
-
-
-
-## 🏢 Third Party Credits 🏢
-
-CHANGE ME
+Till now, No-one
 
 # Acknowledgments
 

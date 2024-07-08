@@ -6,8 +6,7 @@ This section outlines the versions of our project that are currently supported w
 
 | Version | Supported |
 |---------|-----------|
-| 1.6.x   | ✅        |
-| 1.5.0   | ❌        |
+| 1.0.x   | ✅         |
 
 ## Reporting a Vulnerability
 
@@ -17,11 +16,11 @@ If you believe you have found a security vulnerability in our project, we encour
 
 1. **Identify the Vulnerability**: Clearly describe the vulnerability, including how it can be exploited and any potential impact.
 2. **Provide Detailed Information**: Include as much detail as possible, such as the version of the project affected, steps to reproduce the vulnerability, and any relevant code snippets or screenshots.
-3. **Contact Us**: Send your report to my [email](mailto:REPLACE_ME). Please include "Security Vulnerability Report" in the subject line.
+3. **Contact Us**: Send your report to my [email](mailto:Nirt_12023@outlook.com). Please include "Security Vulnerability Report" in the subject line.
 
 ### What to Expect
 
-- **Acknowledgment**: Upon receiving your report, we will acknowledge receipt within 2�5 business days.
+- **Acknowledgment**: Upon receiving your report, we will acknowledge receipt within 2-5 business days.
 - **Investigation**: Our security team will investigate the vulnerability and determine its validity.
 - **Update**: If the vulnerability is accepted, we will work on a fix and provide an update on the timeline for a security update.
 - **Communication**: We will communicate with you regarding the status of the vulnerability and any necessary actions.
